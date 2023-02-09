@@ -1,0 +1,11 @@
+Matricule; Marque ;couleur;date_circulation  ; kilometrage;cylindre
+123-tun 4553;Audi;rouge;12/01/2021;263000;5
+140-tun 3692;Aud;blanc;10/09/2023;120000;7
+120-tun 3692;Audi;bleu;12/03/1996;220000;3
+142-tun 8897;BMW;noir;01/03/1969;160000;4
+120-tun 3692;BMW;jaune;20/06/2020;150000;7
+102-tun 7956;Citro‰n;blanc;02/07/2021;250000;2
+160-tun-3628;Citro‰n;noir;10/02/2021;120000;7
+101-tun 6365;DACIA;bleu;30/08/2020;1360000;3
+456-tun 6321;Fiat;jaune;19/04/1999;12000;6
+123-tun 1230;Ford;noir;29/04/1998;120000;7
